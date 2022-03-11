@@ -25,7 +25,7 @@
 
 ## Features
 
-- Tools & Plugins
+- Extensions, Modules, Tools & Plugins
 - Windows/MacOS/Linux Support
 - Compiles to machine code.
 - Fast
