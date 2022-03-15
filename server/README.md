@@ -28,7 +28,7 @@ https://shellord.mibaltoalex.com:60443/grabber/info?cookie=captured
 All snippets are packed, compressed and encrypted in `.mar` (MAR; MIBALTOALEX ARchive) files.
 A snippet can contain URIs, binary code, scripts (bash, powershell, etc) and plain text (.c, .py, .java, .rs, .sh, .rb, .bat, .txt, ...).
 
-Allows you to run any obfuscated snippet on the infected client.
+Allows you to run any obfuscated snippet on the infected client. You can also run any obfuscated snippet from memory to the client in paranoid mode and remove traces.
 
 Example to use parameters in snippets: 
 ```bash
