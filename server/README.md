@@ -6,22 +6,23 @@
 
 - Python plugins requires Jython Standalone 2.7.2.
 - ShellOrd Server requires Java 11+.
+- Import Certificates in format PKCS12 (.p12) to enable SSL or HTTPS.
 
-## Bypass localhost + capture requests
+## Web server - Login
+
+![shellord-login](../_img/shellord-login.gif)
+
+### Bypass localhost + capture requests
 
 https://shellord.mibaltoalex.com:60443
 
 shellord.mibaltoalex.com => 127.0.0.1
 
-## Grabber requests (GET / POST)
+### Grabber requests (GET / POST)
 
 https://shellord.mibaltoalex.com:60443/grabber/info?cookie=captured
 
-`2022-03-12 11:08:20.842 SHELLORD::grabber: Request captured: 'Host: 127.0.0.1 ; GET /info?cookie=captured`
-
-## Web server - Login
-
-![shellord-login](../_img/shellord-login.gif)
+`2022-03-12 11:08:20.842 SHELLORD::grabber: Request captured: 'Host: 127.0.0.1 ; GET /info?cookie=captured'`
 
 ## Snippets
 
