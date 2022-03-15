@@ -8,6 +8,10 @@ https://shellord.mibaltoalex.com:60443
 
 shellord.mibaltoalex.com => 127.0.0.1
 
+## Grabber requests (GET / POST)
+
+https://shellord.mibaltoalex.com:60443/grabber/info?cookie=captured
+
 ## Web server - Login
 
 ![shellord-login](../_img/shellord-login.gif)
