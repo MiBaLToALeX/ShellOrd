@@ -1,6 +1,11 @@
 🐚 ShellOrd Server Cross-Platform written in Java
 
-- Plugins: A collection of plugins.
+- Plugins: A collection of plugins. (.jar or .py). 
+
+## Requirements
+
+- Python plugins requires Jython Standalone 2.7.2.
+- ShellOrd Server requires Java 11+.
 
 ## Bypass localhost + capture requests
 
