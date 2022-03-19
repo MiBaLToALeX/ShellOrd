@@ -5,7 +5,7 @@
 ## Requirements
 
 - Python plugins requires Jython Standalone 2.7.2.
-- ShellOrd Server requires Java 11+.
+- ShellOrd Server requires Java 17+.
 - Import Certificates in format PKCS12 (.p12) to enable SSL or HTTPS.
 
 ## Web server - Login
