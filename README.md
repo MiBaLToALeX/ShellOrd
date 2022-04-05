@@ -2,7 +2,7 @@
 
 [![Software License][ico-license]](LICENSE)
 
-:shell: Reverse Shell Cross-Platform written in Rust & Java.
+:shell: ShellOrd is a C2 (Command & Control) framework cross-platform and agent written in Rust & Java.
 
 ## Contents
 
