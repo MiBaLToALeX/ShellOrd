@@ -16,12 +16,9 @@
 
 ## DISCLAMER
 
-**For educational purposes only!**
-
-**I am not responsible for damage or legal trouble you may incur from using SHELLORD.**
-
-**Use at your own risk and only on networks you have permission to access.**
-
+**ShellOrd** should be used for authorized penetration testing and/or nonprofit educational purposes only.
+Any misuse of this software will not be the responsibility of the author or of any other collaborator.
+Use it at your own servers and/or with the server owner's permission.
 
 ## Features
 
