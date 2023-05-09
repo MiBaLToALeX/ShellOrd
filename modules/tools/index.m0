@@ -1,25 +1,38 @@
-{
-"CyberChef":{
-"name":"CyberChef v9.32.3",
-"path":"CyberChef/index.html",
-"local":true
-},
-"hieroglyphy":{
-"name":"Hieroglyphy",
-"path":"hieroglyphy/index.html",
-"local":true
-},
-"jsfuck":{
-"name":"JSFuck",
-"path":"jsfuck/index.html",
-"local":true
-},
-"gtfobins":{
-"name":"GTFOBins",
-"path":"https://gtfobins.github.io/"
-},
-"lolbas":{
-"name":"LOLBAS",
-"path":"https://lolbas-project.github.io/"
-},
-}
+[
+  {
+    "id": "CyberChef",
+    "name": "CyberChef v10.4.0",
+    "path": "CyberChef/index.html",
+    "isLocal": true
+  },
+  {
+    "id": "hieroglyphy",
+    "name": "Hieroglyphy",
+    "path": "hieroglyphy/index.html",
+    "isLocal": true
+  },
+  {
+    "id": "jsfuck",
+    "name": "JSFuck",
+    "path": "jsfuck/index.html",
+    "isLocal": true
+  },
+  {
+    "id": "gtfobins",
+    "name": "GTFOBins",
+    "path": "https://gtfobins.github.io/",
+    "isLocal": false
+  },
+  {
+    "id": "lolbas",
+    "name": "LOLBAS",
+    "path": "https://lolbas-project.github.io/",
+    "isLocal": false
+  },
+  {
+    "id": "loldrivers",
+    "name": "LOLDrivers",
+    "path": "https://www.loldrivers.io/",
+    "isLocal": false
+  }
+]
