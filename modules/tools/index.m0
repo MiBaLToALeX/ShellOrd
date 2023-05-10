@@ -34,5 +34,11 @@
     "name": "LOLDrivers",
     "path": "https://www.loldrivers.io/",
     "isLocal": false
+  },
+  {
+    "id": "csrftool",
+    "name": "CSRF Tool",
+    "path": "mbx://mra1w3hk7mrn9a3hxunx898e7u",
+    "isLocal": false
   }
 ]
