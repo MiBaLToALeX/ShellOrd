@@ -53,7 +53,7 @@ Note: Deprecated old mode
 
 Includes dark and light theme.
 
-![shellord-extensions](../_img/shellord-extensions.jpg)
+![shellord-extensions](../_img/shellord-theme.jpg)
 
 ## Extensions
 
