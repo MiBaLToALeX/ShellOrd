@@ -55,6 +55,12 @@ Includes dark and light theme.
 
 ![shellord-extensions](../_img/shellord-extensions.jpg)
 
+## Extensions
+
+Includes extensions.
+
+![shellord-extension-demo](../_img/shellord_extension_demo.jpg)
+
 ### Example
 
 Example launch calculator on victim (Windows)
