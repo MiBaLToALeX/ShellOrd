@@ -61,6 +61,18 @@ Includes extensions.
 
 ![shellord-extension-demo](../_img/shellord_extension_demo.jpg)
 
+### API
+
+Now allows to set metadata both in code and in annotations
+
+![shellord-metadata](../_img/shellord-metadata.jpg)
+
+### Menu de rutas
+
+Includes menu with custom routes.
+
+![shellord-menu](../_img/shellord-menu.jpg)
+
 ### Example
 
 Example launch calculator on victim (Windows)
