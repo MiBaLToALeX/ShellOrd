@@ -1,4 +1,4 @@
- # MBA (Mixed Boolean-Arithmetic) Obfuscator
+ # MBA (Mixed Boolean-Arithmetic) & OC (Opaque Constants) Obfuscator 
 
 A powerful obfuscator that allows code obfuscation using arithmetic expressions.
 
