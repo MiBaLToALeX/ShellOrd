@@ -25,6 +25,9 @@ hs_err_pid*
 ## Build
 debug/
 target/
+assets/h*
+assets/a*
+assets/k*
 /dl/
 /doc/
 /mingw-build/
