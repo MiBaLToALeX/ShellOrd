@@ -29,6 +29,7 @@ Use it at your own servers and/or with the server owner's permission.
 - Secure (memory safe)
 - Recursive connecting
 - Encrypt the data transmitted over TCP or UDP protocol.
+- Enables building and automating workflows from start to finish. An alternative to the Trickest platform.
 
 
 ## Contributing
