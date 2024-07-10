@@ -49,6 +49,12 @@ Includes commands to configure SHELLORD.
 
 Note: Deprecated old mode
 
+## Terminal
+
+Management of compromised systems from the terminal or attack map.
+
+![shellord-extensions](../_img/shellord_terminal.jpg)
+
 ## Themes
 
 Includes dark and light theme.
