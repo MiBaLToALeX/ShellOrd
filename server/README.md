@@ -55,6 +55,12 @@ Includes dark and light theme.
 
 ![shellord-extensions](../_img/shellord-theme.jpg)
 
+## Modules
+
+An improved module system.
+
+![shellord-extensions](../_img/shellord_new_ui.jpg)
+
 ## Extensions
 
 Includes extensions.
