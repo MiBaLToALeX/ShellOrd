@@ -4,6 +4,20 @@ All notable changes to `ShellOrd` will be documented in this file
 
 ----
 
+## SHELLORD v24.7.10
+
+- **Mejoras:**
+  - Nueva interfaz más limpia.
+  - Sistema de módulos mejorado.
+  - Nuevas herramientas.
+  - Mapa de ataque.
+  - Gestión de sistemas comprometidos desde la terminal o el mapa de ataque.
+  - Mejora del flujo de tareas de los agentes.
+  - Cifrado post-cuántico.
+  - Autodestrucción y limpieza de rastros.
+  
+----
+
 ## SHELLORD v23.5.22
 
 - **Mejoras:**
