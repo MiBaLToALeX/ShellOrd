@@ -67,6 +67,8 @@ An improved module system.
 
 ![shellord-extensions](../_img/shellord_new_ui.jpg)
 
+![shellord-extensions](../_img/shellord_new_modules_explotation.jpg)
+
 ## Extensions
 
 Includes extensions.
