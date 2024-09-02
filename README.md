@@ -58,7 +58,7 @@ If you discover any security related issues, please email security[at]mibaltoale
 ShellOrd is released under the [Apache 2.0 license](LICENSE).
 
 ```
-Copyright 2022 Miguel J. Carmona (MIBALTOALEX).
+Copyright 2022-2024 Miguel J. Carmona (MIBALTOALEX).
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
