@@ -1,0 +1,5 @@
+[
+{"id":"test", "path":"mbx:f/modules/test.sm"},
+{"id":"hack", "path":"mbx:f/modules/hack.sm"}
+{"id":"yt", "path":"mbx:f/modules/yt.sm"}
+]
