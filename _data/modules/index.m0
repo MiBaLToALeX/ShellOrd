@@ -3,17 +3,18 @@
 {"id":"hack", "path":"mbx:f/modules/hack.sm"},
 {"id":"yt", "path":"mbx:f/modules/yt.sm"},
 {"id":"joker", "path":"mbx:f/modules/joker.sm"},
-{"id":"lince", "path":"mbx:f/modules/lince.sm"},
+{"id":"lince", "path":"mbx:f/XMWYWcMWWuABWWPe9nQmWWIvwaZN9Cg5wFmLZNmMYl1Qs8dpdAgWWkQcWWHYkMBPuAm7TXn-iDI7XW.mar?tg"},
 {"id":"analyzer", "path":"mbx:f/modules/analyzer.sm"}
 {"id":"scanner", "path":"mbx:f/modules/scanner.sm"},
 {"id":"pwn", "path":"mbx:f/modules/pwn.sm"},
 {"id":"crypto", "path":"mbx:f/modules/crypto.sm"},
-{"id":"cloud", "path":"mbx:f/modules/cloud.sm"},
+{"id":"cloud", "path":"mbx:f/modules/cloud.sm?r"},
 {"id":"iot", "path":"mbx:f/modules/iot.sm"},
 {"id":"mobile", "path":"mbx:f/modules/mobile.sm"},
 {"id":"wireless", "path":"mbx:f/modules/wireless.sm"},
 {"id":"priv_esc", "path":"mbx:f/modules/priv_esc.sm"},
 {"id":"reporting", "path":"mbx:f/modules/reporting.sm"},
 {"id":"container", "path":"mbx:f/modules/container.sm"},
-{"id":"web", "path":"mbx:f/modules/web.sm"}
+{"id":"web", "path":"mbx:f/modules/web.sm"},
+{"id":"games", "path":"mbx:f/modules/games.sm?r"}
 ]
