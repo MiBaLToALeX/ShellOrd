@@ -1,11 +1,11 @@
 {
-  "version": "2.3.0",
-  "notes": "Actualizaciones automáticas, mejora de la terminal integrada, mejoras de notificaciones.",
-  "pub_date": "2026-07-25T09:00:00Z",
+  "version": "2.3.1",
+  "notes": "Actualizaciones automáticas, mejora de la terminal integrada, mejoras de notificaciones, se añade modo oscuro.",
+  "pub_date": "2026-07-25T10:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0RWZEUzQ3JwQzVuZFlpaHdyZlVRV2lGQWNIUHIzNks4cmZBbjVnK1Q1NE1jSW5aWnVSQjBrdGdESUJabXZVSDljbEY0UW9ZTm8rRmd1NUhzc09hM1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODgyNzUxCWZpbGU6bGluY2VibG9iXzIuMy4wX3g2NC1zZXR1cC5leGUKeXNIU0dIZXhPTHArOVRxQWxSejNZaXMwSUh6dVZtRXRHcExzeFIzakkzNkxNNEpmdmFXZk4rTmhzWDA0RHkxK2EvMW1idU14N2xUUHdBRmZ2Ui85Q3c9PQo=",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0FaeW8wVUlOOTc0VXVTeUlCemZRcW9jbWErV1Q5MldkdUd6RlJkU2U4cXhQT3k4SkJ6N1ZwR3loSGsydWtac0NWNjZrRFVtQ1ZzVjFTUXNIdlVaWXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODg2NjM2CWZpbGU6bGluY2VibG9iXzIuMy4xX3g2NC1zZXR1cC5leGUKdDFEZnAwYXlENDdZamdKRWdYcDVhbnF5K0lpVW1DK05SOEEwVVVyZVpValIrZ2s3RkdsNG9iOHdQeDhiam9kbkFHUkRMK2diblplc21NSWlLRmRnQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.3.1_x64-setup.exe"
     }
   }
 }
