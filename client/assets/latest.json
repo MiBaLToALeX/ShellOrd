@@ -1,0 +1,11 @@
+{
+  "version": "2.2.0",
+  "notes": "Actualizaciones automáticas, terminal integrada (lce/mar), asociación de mbx:// con lce.exe, PATH para lce/mar, mejoras de layout en Android.",
+  "pub_date": "2026-07-23T09:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0dkRVYzSWY3WDZ1Y2JJbnZxZUd3NVlpVzR2ZW9kMU9lOFdNU1BMTW5CUHpHUHU0N0tDZTFkMjF1QXcxU2NFbjB4QWZtK0pUcjBNWWN3WlNuVXljaWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0ODc5MTQ3CWZpbGU6bGluY2VibG9iXzIuMi4wX3g2NC1zZXR1cC5leGUKVE9JVkVray9iU0swaG9mbVI4aHN1bHFXaWVoZHhETHJVK0VoZGRJUVhhcE90YXdDVVZjUS9pUW5pLzBBR2J2UGRjd2J6NFU3RXMzalI5akl4RXNUQnc9PQo=",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.2.0_x64-setup.exe"
+    }
+  }
+}
