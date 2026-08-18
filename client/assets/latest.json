@@ -1,10 +1,10 @@
 {
   "version": "2.4.0",
   "notes": "Mejora de la interfaz, Historial de descargas, Abrir carpeta al terminar descargas, Compartir ticket via QR.",
-  "pub_date": "2026-08-16T10:00:00Z",
+  "pub_date": "2026-08-16T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0JoUTh5K0pVci9qRnlmOHZxYXpZYnorM2xoanpGM211NmZsZVZ6Qll1Tk03MzZuYmwyS2FJK1Y2Qjh3bDVncmM0RDBSTTNxelNJcXhXZnlheExCeWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQxMDIxCWZpbGU6bGluY2VibG9iXzIuNC4wX3g2NC1zZXR1cC5leGUKTVdwOXJDRHdnTzV3U0Q0RXFjS3pja1RpelFITjREUkxCcmwyQU1SOTljdVdOTXM1b3o1eUxYcS9oQzdPZVNXS0lVc1doaDRoZ1NndzJpdmI5OXcyRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0hrUmFnYTZzQlo0MUMzTDlrbi95VmEwWmkxUjNwR0FpVm0zYmtpTzl2OFBtL3VpdUNpYUNYVytRM3ZEc2JuN0ZHekRObWx5V2VhR1BGekszcWg0eUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQyNzc0CWZpbGU6bGluY2VibG9iXzIuNC4wX3g2NC1zZXR1cC5leGUKbUE0ZjFDajlqbTFQRUN4WmQ3Q2ZvTUdDa2IybVpNOFhTWnlDOUlZeEtRWmVCVjgvZGNoVzZLbjR5Y2VsKzhZUG5FQVRBeGFJcysyVTBJano5TE9EQWc9PQo=",
       "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.4.0_x64-setup.exe"
     }
   }
