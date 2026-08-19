@@ -1,11 +1,11 @@
 {
-  "version": "2.5.0",
-  "notes": "Envio de varios ficheros en Android y cambio de iconos",
-  "pub_date": "2026-08-18T20:00:00Z",
+  "version": "2.6.0",
+  "notes": "Selección de carpeta de descargas en Android, Enlaces mbx y QR permiten descargar directamente",
+  "pub_date": "2026-08-18T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0FCWlB1MmQvcTV3b0p2V2hlR295aWhOeFdqUUZhNldjZWFKeVFSYnQ1STN0YWRrbDNvSExaUzRJeVlYYzBIU0hrN2FDSlduQjJsYlYxUWlTSTN2bUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMwMTE2CWZpbGU6TGluY2VCbG9iXzIuNS4wX3g2NC1zZXR1cC5leGUKZGNPM0NJQXQzSVBtOTNERkFnZERhK1p6K1M1WVdtUnMrMzRPODdnT0NNZEdMRE0yTUlZL3J1aFhOQ0NWMkwxN284YWZKdnE1cHBRT1hGK2JId1BRQ3c9PQo=",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.5.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0xUMldYT3dhRldMSmNmVjlHU0MvMEV4aFZiQlYreWYxSXhxNExnYjF1K1NmK1Q1NTR1U1BYclRlUWNkcGxsczNyRzdaUVFRWDgxd2x0SmNFYjlhVWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM2NzIyCWZpbGU6TGluY2VCbG9iXzIuNi4wX3g2NC1zZXR1cC5leGUKR0o4RTAwN3pMczlabzlldEdqTWpETCtueWhtSWJaMHV6dnRZYUIvb1JDa01mTmp2TW0zN3lCWmIyQUZYbmpSYnJtTkMvTFpIVzN6VHVNV2QwMlJRQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.6.0_x64-setup.exe"
     }
   }
 }
