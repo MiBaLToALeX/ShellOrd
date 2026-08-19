@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "notes": "Mejora de la interfaz, Historial de descargas, Abrir carpeta al terminar descargas, Compartir ticket via QR.",
-  "pub_date": "2026-08-16T11:00:00Z",
+  "version": "2.5.0",
+  "notes": "Envio de varios ficheros en Android y cambio de iconos",
+  "pub_date": "2026-08-18T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0hrUmFnYTZzQlo0MUMzTDlrbi95VmEwWmkxUjNwR0FpVm0zYmtpTzl2OFBtL3VpdUNpYUNYVytRM3ZEc2JuN0ZHekRObWx5V2VhR1BGekszcWg0eUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDQyNzc0CWZpbGU6bGluY2VibG9iXzIuNC4wX3g2NC1zZXR1cC5leGUKbUE0ZjFDajlqbTFQRUN4WmQ3Q2ZvTUdDa2IybVpNOFhTWnlDOUlZeEtRWmVCVjgvZGNoVzZLbjR5Y2VsKzhZUG5FQVRBeGFJcysyVTBJano5TE9EQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0FCWlB1MmQvcTV3b0p2V2hlR295aWhOeFdqUUZhNldjZWFKeVFSYnQ1STN0YWRrbDNvSExaUzRJeVlYYzBIU0hrN2FDSlduQjJsYlYxUWlTSTN2bUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTMwMTE2CWZpbGU6TGluY2VCbG9iXzIuNS4wX3g2NC1zZXR1cC5leGUKZGNPM0NJQXQzSVBtOTNERkFnZERhK1p6K1M1WVdtUnMrMzRPODdnT0NNZEdMRE0yTUlZL3J1aFhOQ0NWMkwxN284YWZKdnE1cHBRT1hGK2JId1BRQ3c9PQo=",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.5.0_x64-setup.exe"
     }
   }
 }
