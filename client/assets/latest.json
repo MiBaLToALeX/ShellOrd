@@ -1,11 +1,11 @@
 {
-  "version": "2.7.0",
-  "notes": "Compartir desde el sistema, Escaner QR, Reenviar desde el historial, Servicio en primer plano para transferencias",
+  "version": "2.8.0",
+  "notes": "Chat, reenvio de puertos, 2FA para conexiones entrantes, Mejora de la interfaz",
   "pub_date": "2026-08-18T22:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0NnK1F0UWlSMFB1ZzJuaXBhbStGWUZzOUFjcDgyc1J4c05MMExhajNDN3lmTnFOdDF2eE56SGxiQ0xyQUQvbDFETzVKaFZ3eFd5Q3dCWFQ0ZjZ5cVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTQ1MDM4CWZpbGU6TGluY2VCbG9iXzIuNy4wX3g2NC1zZXR1cC5leGUKeDZ6MlJhZXBDcktRM3NCejAvM2JHcFFBSEFMdm94aEZaZXpIV0J2cU1Xd1UraWs3TGtyakgvcmFodk1iSWxjdDJuUGV5cm9lSU9vVkV2NDdjTEhsQnc9PQo=",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.7.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S1ArdnNFVnlIdjF2VkpCWnQ1ZGk5emFVODcxZnRuR0xjWDUzNDdSc3VCSFdHSEw5TjY1aWhDa29xMkJ4Ym0xcFB6a0RhNXNOcXJZWVJzVjBMV21EZlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjExNTM2CWZpbGU6TGluY2VCbG9iXzIuOC4wX3g2NC1zZXR1cC5leGUKMi9DQVJsNkpQaERYQjRMckNHQjdROGVMTVZCMlRSYkZ6YmxURmhJSGZEdk9LbzQ1SzV4UlVrZEMrc2RoYTQ5NTg2MXh1U2pwanN4VmVwL2FvVGliQ0E9PQo=",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.8.0_x64-setup.exe"
     }
   }
 }
