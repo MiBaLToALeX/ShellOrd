@@ -1,10 +1,10 @@
 {
   "version": "2.8.0",
-  "notes": "Chat, reenvio de puertos, 2FA para conexiones entrantes, Mejora de la interfaz, Ajustes del Compresor Post-Cuantico",
-  "pub_date": "2026-08-19T18:00:00Z",
+  "notes": "Chat, reenvio de puertos, 2FA para conexiones entrantes, Mejora de la interfaz, Ajustes del Compresor Post-Cuantico, Mensajes de audio",
+  "pub_date": "2026-08-19T19:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0psUUMxOGxJWTErUDFXczVnSXdPY1FGbThNeUVYb2V5Y0lwYjNHaEV4Z2VxTjAwMG5Cczl5N0pBd0JBWStkajJLeDNTRTRXcjVuZ1FUWjRGc3g4YUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjE0MDIxCWZpbGU6TGluY2VCbG9iXzIuOC4wX3g2NC1zZXR1cC5leGUKSk96RjgyblBMZ3VqdmZBN2FGdHQxVk1PSmRkRFNQY04vNnd4VXF0Yk5GWityNDllc2pOL0VkSWthSlU0NkNETDRiT3N4bGYyVHl2ZzE0amswbDY1Qnc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0w1bGcyS25BWkE0VlRqWW5xendGelJRdzhsbFE3QlpTUy9EWFk4RmZheUVaWWRCTWxyWjZVZmZ1UDl1dzJwSHpJK1Z1Y0xlSzZmc0l0OXIwM1Y3VUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MjIzNTMzCWZpbGU6TGluY2VCbG9iXzIuOC4wX3g2NC1zZXR1cC5leGUKZm12SmNmODZOMHFkTGV3U0JpYmtYR0M0V0dQTmkvdHFuRnkzVHYxTGk1cWVaY29xWWsycW1zRXYwb1NKa1NjZzIweVh2R1lRRFdldFlGYS9XdDZPQ1E9PQo=",
       "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.8.0_x64-setup.exe"
     }
   }
