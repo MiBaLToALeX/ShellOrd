@@ -1,6 +1,6 @@
 {
   "version": "2.8.0",
-  "notes": "Chat, reenvio de puertos, 2FA para conexiones entrantes, Mejora de la interfaz",
+  "notes": "Chat, reenvio de puertos, 2FA para conexiones entrantes, Mejora de la interfaz, Ajustes del Compresor Post-Cuantico",
   "pub_date": "2026-08-18T22:00:00Z",
   "platforms": {
     "windows-x86_64": {
