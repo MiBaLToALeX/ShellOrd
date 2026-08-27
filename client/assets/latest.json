@@ -1,11 +1,11 @@
 {
-  "version": "2.10.4",
-  "notes": "Chat directo en Android, Descargas directas, QR para claves publicas, Modales apilados, Borrar mensajes de audio, Ubicacion de las claves",
-  "pub_date": "2026-08-22T18:00:00Z",
+  "version": "2.11.0",
+  "notes": "Arreglo de conflictos al descargar, Aviso de espacio en disco, 2FA al intentar descargar, de ayuda, Buscador de ajustes, QR animado con velocidad ajustable, Mejora de accesibilidad",
+  "pub_date": "2026-08-22T22:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0pjQXBiOXFpU2p0Qk5nVmJxdTNyN1JyaXV0Y3F2cU9uWFpUTFNCSDJvdGdZSFBaY2xxbnE5clNUR0FpdVp1SVVnY3Q3anhUenVwNE12NU9WeUx5WHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTU4NzMzCWZpbGU6TGluY2VCbG9iXzIuMTAuNF94NjQtc2V0dXAuZXhlCmVPdkxBZkdDOHRnWWJMa1FpamJUb2JaVzc0alJZOU1SOEJLenFFcUlidWo5V1VvbGlqQUhoQlVBU2VNeWk5V1RIWGdHUTJER0o3bW1CQy9HcDl1YUR3PT0K",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.10.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S01FWlovQ2FRTFdDUzlRMzJHUDBxQUdOUE1jLzVGR0R5bER4a01iMmFiMUlZeU94U1N3TkxsUU1CSzBmSVdNdVVZcnVyRHhEQmEvdlZVY1hjQi9ja2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODIzNzU2CWZpbGU6TGluY2VCbG9iXzIuMTEuMF94NjQtc2V0dXAuZXhlCk9mTUdXZGVhWk9UY0d6eUZmNE1wVmhuYU5BZm1qR3NXN1JoM2NGYmppVzEwbWUvWjVMWlR2MG1sKzFka0FxVTk0RlNreGNGU01VUDdwamNtMTBiWUNRPT0K",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.11.0_x64-setup.exe"
     }
   }
 }
