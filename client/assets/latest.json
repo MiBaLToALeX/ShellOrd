@@ -1,11 +1,11 @@
 {
-  "version": "2.11.3",
+  "version": "2.11.4",
   "notes": "Arreglo de conflictos al descargar, Aviso de espacio en disco, 2FA al intentar descargar, de ayuda, Buscador de ajustes, QR animado con velocidad ajustable, Mejora de accesibilidad",
   "pub_date": "2026-08-25T18:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0FOeTcwcm5zVklmRjJPemJlTkRLblRPK0ppSWxLeUNUVHkrVC8zZG9WanR5dVVwNHIxM3N1d0l3VURCbTEvbTlJMmhyNVc0cE54eEZFVEM3aUNGTGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODM1ODU5CWZpbGU6TGluY2VCbG9iXzIuMTEuM194NjQtc2V0dXAuZXhlClAxN0p3MGQxQ3Y5TFB0RU1Jdk50OVNTUjY4SStRRzNMMTBocWdVR1krZFVOTmNMaVg3MEtCZmM5eElrVS8zOVROTVh5NzlQMmxxa05hdURzeDVDNUF3PT0K",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.11.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S05EWlFTUG50TVJ1dkkvZmZmOEE0eWhYSCt1bW9zNXZjYitZL050dFFwdFhRcE5veEJCbkg0dlJoeGp5MU00M01mMVJqYkE0Rjhlc0xSNC9kM1VqTmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODQwMTUwCWZpbGU6TGluY2VCbG9iXzIuMTEuNF94NjQtc2V0dXAuZXhlCmxMWUNiaithdENtRzhUUW1EMUl5ZlBucm9IKzdXVjNyTXd4Mk5qM2doWUpsNUc0bE14TlBJdjBkQmMwdmtlMHNBZnozUFpqNmxvZWJQK1MvQVZ4UkN3PT0K",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.11.4_x64-setup.exe"
     }
   }
 }
