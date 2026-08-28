@@ -1,11 +1,11 @@
 {
-  "version": "2.12.8",
-  "notes": "Arreglo 2FA al intentar descargar, Buscador de ajustes, QR animado con velocidad ajustable, Mejora de la interfaz de usuario",
-  "pub_date": "2026-08-26T19:30:00Z",
+  "version": "2.12.9",
+  "notes": "Arreglo 2FA al intentar descargar, Buscador de ajustes, QR animado con velocidad ajustable, Mejora de la interfaz de usuario, Reenvío de puertos en Android",
+  "pub_date": "2026-08-27T20:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0pRVHdtMTJDWGJDYTNSenVmc0xrSnUyd3VKMzZKSXlxdUJnYjgyZzdPY1RGSkRIZTNaVXhEbUtKQU1oaUpLOGp5VXExT0YwVjhIbUlUSE1zQ0NrOGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTA3MDg0CWZpbGU6TGluY2VCbG9iXzIuMTIuOF94NjQtc2V0dXAuZXhlCnFPNkdEUWFPQUJKeVRmbFZXckI2bk94MHpoNFdoTXUvdFozYVJlWXlhMlZwZy9CM0lld1hGV2piZHA5MTJEVi91d0Rrd05NVUZTZ29yc0tGcUhYWUJRPT0K",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.12.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0plQlY1dFE3SXUwSXAyb0ZRcHh3UU54bHpzUHByRkhDd3V2LzYxY21RdjJUODgrTWFjdndmd2pFS1pJaklqRUpITjFjY3dqVFpCM2RYQUNSTUs4Mmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTIxMTI2CWZpbGU6TGluY2VCbG9iXzIuMTIuOV94NjQtc2V0dXAuZXhlCjMydWh4RHhBR3R6Z1hHdCtVYis4VlhaVzNhaWh5ZXFxUlc5OHBoUTNSYjVGSVRGQjdTZWFFV2N4a1B0WVdTWXR1SkJUTnI3b05udllRMy91U1gxc0F3PT0K",
+      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.12.9_x64-setup.exe"
     }
   }
 }
