@@ -1,11 +1,11 @@
 {
   "version": "2.13.0",
-  "notes": "Dispositivos cercanos, Reenvio de puertos mejorado, Nuevos idiomas",
-  "pub_date": "2026-08-29T20:00:00Z",
+  "notes": "Dispositivos cercanos: envía a otro aparato de tu red sin pasarle el código. Portugués, francés e italiano. El reenvío de puertos en Android ya no se corta al cambiar de aplicación.",
+  "pub_date": "2026-08-29T14:12:29Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S0F3bTR5d3VmZ25qcWtUa0NQWkZ6K1h3R2hLK3oxNEV6OUFKOWR4R0Q0eXAvUlh6NUVudm5VK3VseU1EWGw1SHNZYnhyRTRJSlptSHUxaU9YM0t2eHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTU2ODIzCWZpbGU6TGluY2VCbG9iXzIuMTMuMF94NjQtc2V0dXAuZXhlCkhVaUxHVEFLOW52dFM0VUdhMEVBNjZhVXFRNFM0QkpMYm5RWWJTa0ppR0FkbFVsblg0YVk5d1ZWQjBOZTZoWkVsU1o5U1lOTkxOUGthZk5nUXo2MEJ3PT0K",
-      "url": "https://raw.githubusercontent.com/MiBaLToALeX/ShellOrd/main/client/assets/LinceBlob_2.13.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS3YxNTY1NEF5S01lTTQyTnBDTEdoQkQ3ejZ2WWxXWm5uclBPZXRwTWpleUg1Y0NGdTdUdlhRRTRwdTRuSk1Ed21KejRXL0Zocy9iOERFUitLZ3k2c1RjZndITW05ZlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDEyNzM4CWZpbGU6TGluY2VCbG9iXzIuMTMuMF94NjQtc2V0dXAuZXhlCnpkYlpHd2ptR1RaVDJEVzl1RUd0eEdjbmViOVNLRGx6RUhFSVFLNGpTRUJQalBBQ2RrVmZlSlhXaklrMXJUNXJ1L1A5V21OS1R2bUF5YjFWdmdrS0RnPT0K",
+      "url": "https://github.com/MiBaLToALeX/LinceBlob/releases/download/v2.13.0/LinceBlob_2.13.0_x64-setup.exe"
     }
   }
 }
